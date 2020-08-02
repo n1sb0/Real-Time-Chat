@@ -1,3 +1,3 @@
 Real Time Chat
 
-Using: Js and Tp
+Chat where people connect to one server and can chat with each other 
